@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **my backend skills in SpringBoot**
 
-- 🤝 You can also connect me at [www.linkedin.com/in/ gauri-khake-91126b219](www.linkedin.com/in/ gauri-khake-91126b219)
+- 🤝 You can also connect me at [www.linkedin.com/in/ gauri-khake-91126b219]
 
 - 💬 Ask me about **Core Java|Adv Java|SpringBoot|Javascript|SQL|HTML|CSS**
 
